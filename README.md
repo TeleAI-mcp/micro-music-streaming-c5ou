@@ -1,2 +1,3 @@
-# micro-music-streaming-c5ou
-Automated issue comment bot repository
+# Micro Music Streaming C5Ou
+
+Automated issue comment bot repository.
